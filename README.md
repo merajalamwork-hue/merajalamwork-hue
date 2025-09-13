@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm merajalamwork-hue 👋
 
-<!--
-**merajalamwork-hue/merajalamwork-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [WordPress Playground](https://github.com/merajalamwork-hue/wordpress-playground)
+Run WordPress in the browser via WebAssembly PHP. Instantly spin up a WordPress environment for demos, testing plugins/themes, or learning—no server required!
+
+[Live Demo](https://w.org/playground/)
+
+---
+
+## 🛠️ Skills & Interests
+- WebAssembly
+- WordPress
+- Open Source
+- Mobile Testing
+- Blackbox Testing
+- SQL
+- Database Testing
+- Basic knowledge of HTML & CSS
+
+## 🌐 Social
+- [GitHub](https://github.com/merajalamwork-hue)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=merajalamwork-hue&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile!
