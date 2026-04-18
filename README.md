@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Meraj Alam - QA Tester
 
-I focus on identifying critical bugs, edge cases, and real-world user issues to help teams release stable and reliable applications.
----
+**I focus on identifying critical bugs, edge cases, and real-world user issues to help teams release stable and reliable applications.
+**
 
 ## 💼 What I Can Do For You
 
