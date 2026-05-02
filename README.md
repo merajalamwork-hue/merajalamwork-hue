@@ -24,6 +24,28 @@
 📄 Full Report:  
 👉 https://gist.github.com/merajalamwork-hue/e1227b081556d61e8ca52bee4fa9912f  
 
+### 🔹 Vuln-Bank Security Testing
+**Type:** Web Application | Deliberately Vulnerable Banking App
+
+* Found negative loan amount accepted without validation
+* Input validation completely missing on loan request form
+* Applied: Boundary Value Analysis, Negative Testing
+  
+Bug Report:
+https://github.com/Commando-X/vuln-bank/issues/35
+
+### 🔹 Signal Android App Testing (v8.7.3)
+**Device:** Samsung Galaxy A22 4G | **OS:** Android 13
+
+* Found missing input validation on custom donation amount field
+* Found misleading error message on failed payment screen
+* Applied: Boundary Value Analysis, Negative Testing, 
+  Exploratory Testing, End-to-End Testing
+  
+🐛 Bug Report #1 (High Severity):
+👉 https://github.com/signalapp/Signal-Android/issues/14750
+
+
 ---
 
 ## 🛠 Tools I Use
