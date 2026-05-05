@@ -16,6 +16,22 @@
 
 ## 🧪 Real Testing Work (Proof)
 
+## 🌍 Open Source Contributions
+
+### 🔧 WordPress Playground
+**[WordPress/wordpress-playground](https://github.com/WordPress/wordpress-playground)**
+
+While exploring the WordPress Playground project, I discovered a bug where submitting the 
+"Add New User" form in the WordPress Admin panel returned a **"Page Not Found" error** 
+instead of creating the user and redirecting to the user list.
+
+I reported this issue with clear reproduction steps, expected vs actual behavior, 
+and an attached screenshot. The bug was confirmed by the maintainers, assigned, 
+and successfully resolved.
+
+- 📌 **Issue:** [#2578 - Page Not Found error displayed after submitting required fields while adding a "new user"](https://github.com/WordPress/wordpress-playground/issues/2578)
+- ✅ **Status:** Closed & Fixed via PR #2595
+
 ### 🔹 Mifos X Web App Testing
 - Found login form validation bug
 - Identified UI issue in authentication flow
